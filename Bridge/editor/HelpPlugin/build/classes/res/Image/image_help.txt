@@ -1,0 +1,55 @@
+COMO TRABALHAR COM IMAGENS
+
+Introdução
+
+Nos primórdios, os computadores eram capazes de exibir apenas linhas de texto. Com o aperfeiçoamento constante de recursos gráficos, tanto de hardware quanto de software, formas e cores variadas passaram a fazer parte da rotina de quem utiliza estas máquinas, situação que, aos poucos, resultou no surgimento de formatos variados de imagens. Muito destes se popularizaram com a internet. É o caso dos padrões JPEG, GIF e PNG, cujas principais características o InfoWester apresenta a seguir.
+
+De quebra, o texto também mostrará brevemente outros formatos conhecidos, mas menos utilizados: Bitmap, TIFF, RAW, SVG e WebP. Por fim, explicará o que é Exif. Vamos conferir?
+
+Links diretos:
+
+- Formato JPEG (JPG);
+- Formato GIF;
+- Formato PNG;
+- Formato Bitmap;
+- Formato TIFF;
+- Formato RAW;
+- Formato SVG;
+- E o formato WebP?;
+- Exif.
+
+Formato JPEG (JPG)
+
+O formato JPEG, cuja sigla significa Joint Photographic Experts Group, teve sua primeira especificação disponibilizada em 1983 por um grupo que leva o mesmo nome. É um dos padrões mais populares da internet por aliar duas características importantes: oferece níveis razoáveis de qualidade de imagem e gera arquivos de tamanho pequeno quando comparado a outros formatos, facilitando o seu armazenamento e a sua distribuição.
+
+O JPEG possibilita isso porque é um formato que utiliza compressão de imagens. Mas, o que é isso? Em poucas palavras, compressão consiste na eliminação de dados redundantes nos arquivos. No caso de imagens, é possível fazer a compressão de forma que a retirada de informações não prejudique a qualidade (lossless - sem perda), assim como é possível utilizar níveis maiores de compressão que causam perdas visíveis (lossy - com perda).
+
+Este último é o que acontece no JPEG: neste formato, quanto maior o nível de compressão, menor será o tamanho do arquivo, porém pior será a qualidade da imagem. O nível de compressão pode ser determinado em programas de tratamentos de imagens. Cada vez que uma mesma imagem JPEG é salva, costuma-se perder qualidade, já que, geralmente, o software utilizado para tratá-la aplica compressão, mesmo que mínima, toda vez que esta ação é realizada.
+
+O JPEG é capaz de trabalhar com quase 16,8 milhões de cores (24 bits). Essa característica, aliada à capacidade de compressão que reduz o tamanho dos arquivos, faz do formato uma excelente opção para a distribuição de imagens fotográficas, tanto que o formato é muito utilizado para a geração de fotos em câmeras digitais. Isso porque, mesmo havendo perda de qualidade, esta ocorre de maneira pouco ou nada perceptiva, desde que, é claro, não haja "abuso" do uso de compressão nem salvamentos frequentes. No caso de atividades profissionais, é recomendável o uso de formatos que preservam a qualidade.
+
+Arquivos em JPEG geralmente são utilizados com as extensões .jpg (mais frequente) e .jpeg, podendo haver outras de acordo com os algoritmos utilizados. Saiba mais em www.jpeg.org.
+
+Formato GIF
+
+Sigla para Graphics Interchange Format, o GIF é outro formato bastante popular na internet. Foi criado pela CompuServe em 1987 e, assim como o JPEG, gera arquivos de tamanho reduzido, no entanto, seu uso não é muito comum em fotografias, já que é capaz de trabalhar com apenas 256 cores (8 bits). Por este motivo, sua utilização é muito frequente com ícones, ilustrações ou qualquer tipo de imagem que não necessite de muitas cores.
+
+Há, no entanto, uma característica que faz o formato GIF ser conhecido até os dias de hoje: graças a uma revisão realizada em 1989, o padrão passou a ter a capacidade de suportar animações. Em outras palavras, o GIF passou a permitir a inserção de uma sequência de imagens em um único arquivo. Assim, quando um GIF nesta condição é exibido, cada uma das imagens inseridas é mostrada seguindo uma ordem, dando ao usuário a sensação de movimento.
+
+O formato GIF ainda tem outro diferencial: é capaz de permitir um efeito conhecido como fundo transparente. Isso significa que um arquivo GIF pode ter áreas da imagem que assimilam a cor do local onde está sendo exibido, como se fosse, de fato, uma transparência. Por exemplo: se uma imagem GIF estiver sendo mostrada em uma página Web com fundo verde, as áreas “transparentes” do arquivo serão mostrados nesta mesma cor.
+
+O GIF também utiliza compressão, mas esta não causa perda de qualidade, mesmo se a imagem for guardada várias vezes. Aqui, há uma curiosidade: o algoritmo de compressão mais comum do GIF é o Lempel-Ziv-Welch (LZW), cuja patente pertencia à Unisys. Aparentemente, a CompuServe não sabia disso. Como consequência, em 1995, a Unisys passou a cobrar empresas responsáveis por programas de edição de imagens pelo uso do algoritmo em questão. A patente expirou em 2003, fazendo com que a cobrança não fosse mais permitida.
+
+A extensão dos arquivos no formato GIF é .gif. Por exemplo: infowester.gif.
+
+Formato PNG
+
+O formato PNG, sigla para Portable Network Graphics, é um dos padrões mais recentes, com a sua primeira especificação tendo surgido em 1996. Seu desenvolvimento foi motivado, em parte, pela restrição de patente existente no formato GIF, conforme explica o tópico anterior.
+
+O PNG reúne, portanto, as características que tornaram o GIF tão bem aceito: animação, fundo transparente e compressão sem perda de qualidade, mesmo com salvamentos constantes do arquivo. Porém, conta com um grande diferencial: suporta milhões de cores, não apenas 256, sendo, com isso, uma ótima opção para fotos.
+
+No aspecto da animação, o PNG, por si só, não possui tal capacidade. O que acontece é que há uma variação chamada APNG (Animated Portable Network Graphics) que possibilita esta característica. O esquema é o mesmo do padrão GIF: uma sequência de imagens inseridas em um único arquivo. No caso, a primeira imagem é um arquivo PNG "normal", que é exibido em situações onde, por algum motivo, a animação não pode ser executada. Há também uma variação chamada MNG (Multiple-image Network Graphics) que possui a mesma finalidade.
+
+Imagens no formato PNG possuem extensão .png, mesmo nas variações de animação, embora, neste último caso, possa ser utilizado também nomes com .mng e .apng.
+
+O PNG é um formato livre, criado desde o início para ser utilizado em qualquer aplicação sem necessidade de pagamentos de licenças ou afins. Sua utilização é apoiada pela W3C.

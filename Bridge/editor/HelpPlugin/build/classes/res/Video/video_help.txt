@@ -1,0 +1,26 @@
+Como trabalhar com vídeo neste editor
+
+A importância dos Codecs
+
+Para seu computador rodar todos os formatos de vídeo será necessário instalar um pacote de codecs. O CCCP - Combined Community Codec Pack e o K-Lite Mega Codec Pack cumprem bem com esta função e possuem todos os codecs necessários. Outra opção é o VLC Media Player, que roda grande parte dos formatos sem a necessidade da instalação de outros pacotes de codecs.
+
+Os formatos  
+3GP: formato padrão de gravação e exibição de vídeos nos telefones celulares. Por ser extremamente compactado, permite o uso em aparelhos com capacidade limitada de memória, sendo por isso o mais indicado para os celulares 3G, GSM e TDMA.
+FLV: formato encontrado em sites de compartilhamento de vídeos como YouTube, Google Video e MySpace. Originário do Adobe Flash Player, sua extensão significa Flash Video. Como também oferece uma compactação alta, mas com qualidade superior ao 3GP, é carregado rapidamente pelos navegadores. Alguns telefones mais atuais já utilizam este formato como padrão.
+
+RMVB: formato criado pela Real Networks e exibido no RealPlayer ou no Real Alternative. Derivado do RM, o RMVB tem como característica a taxa variável de bits. Isto significa que o vídeo RMVB varia a taxa de dados de acordo com a complexidade da imagem exibida. O arquivo oferece a mesma qualidade do RM, mas por causa da taxa variável, possui menor tamanho final.
+
+Comumente encontrado em sites que disponibilizam filmes e seriados para downloads, o RMVB é menor do que o AVI, porém com qualidade apenas razoável. Apesar do tamanho que agrada os que possuem pouca velocidade de Internet, quem opta por vídeos com uma boa imagem deve evitá-lo.
+AVI: um dos formatos mais populares do mundo e criado pela Microsoft, é reconhecido pela maioria das versões do Windows, aparelhos de DVDs e televisões compatíveis com o Codec Divx. Por ser um formato compacto e de boa qualidade, é considerado o MP3 dos vídeos. Se você possui uma boa conexão, mas não deseja perder tempo com vídeos extremamente pesados, fique com ele.
+
+MOV: formato criado pela Apple e compatível com o iTunes, iPod Video e iPhone. É necessário ter o QuickTime, ou o QuickTime Alternative instalado na máquina para conseguir rodá-lo. Como não tem sido mais comum encontrar vídeos MOV para download, está caindo no desuso.
+
+MP4: também compatível com iTunes e gadgets da Apple, mas com a vantagem de possuir maior qualidade. Este formato está se firmando como padrão para a venda e aluguéis de filme em alta definição na Internet.
+
+Apesar de alguns tocadores de mídia possuírem a denominação MP4, eles não possuem compatibilidade com o codec. Por isso, os usuários são obrigados a convertê-los para um vídeo de formato de menor qualidade para conseguir assisti-los.
+
+MKV: formato popular em razão da escolha pela maioria das pessoas que procuram por vídeos em alta definição na Internet. É fácil de encontrar vídeos MKV em torrents ou em sites de compartilhamento de vídeos. O arquivo final é bem grande (um rip de filme em HD possui cerca de 6 GB), mas vale a pena, sobretudo para quem vai assistir em uma televisão de LED, ou LCD. O MKV funciona como um container de vídeo, permitindo conter vários dados, resultantes de diferentes tipos de codecs.
+
+
+
+

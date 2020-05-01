@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/gabriel/NetBeansProjects/IteratorActivity/src/IteratorActivity/iterators/ArrayListIterator.java</file>
+            <file>file:/home/gabriel/NetBeansProjects/IteratorActivity/src/iteratoractivity/IteratorActivity.java</file>
+            <file>file:/home/gabriel/NetBeansProjects/IteratorActivity/src/IteratorActivity/collections/LinkedList.java</file>
+            <file>file:/home/gabriel/NetBeansProjects/IteratorActivity/src/IteratorActivity/collections/ArrayList.java</file>
+            <file>file:/home/gabriel/NetBeansProjects/IteratorActivity/src/IteratorActivity/concreteIterators/ArrayListIteratorA.java</file>
+            <file>file:/home/gabriel/NetBeansProjects/IteratorActivity/src/IteratorActivity/interfaces/ICollection.java</file>
+            <file>file:/home/gabriel/NetBeansProjects/IteratorActivity/src/IteratorActivity/interfaces/IIterator.java</file>
+            <file>file:/home/gabriel/NetBeansProjects/IteratorActivity/src/IteratorActivity/iterators/LinkedListIterator.java</file>
+        </group>
+    </open-files>
+</project-private>

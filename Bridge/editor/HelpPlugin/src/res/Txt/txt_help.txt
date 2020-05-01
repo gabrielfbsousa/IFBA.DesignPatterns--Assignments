@@ -1,0 +1,9 @@
+Formato de arquivo
+
+Formato de arquivo é a forma usada por determinada aplicação computacional reconhecer os dados gerados por ela. Cada aplicativo tem um formato específico, padronizado ou não para que possa tratar as informações contidas no arquivo gerado.
+
+Documento de texto padrão que contém texto não formatado; reconhecido por qualquer edição de texto ou programa de processamento de texto; também pode ser processada pela maioria dos outros programas de software.
+
+Arquivos de texto genéricos com nomes que terminam em ".txt" são criados por bloco de notas do Windows e por TextEdit para Mac OS X quando a formatação do documento é removido.
+
+NOTA: Vários dispositivos de hardware, como smartphones e o Amazon Kindle e navegadores web, como Chrome e Firefox, também reconhecem arquivos de texto simples.

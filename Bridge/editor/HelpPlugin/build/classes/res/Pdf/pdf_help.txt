@@ -1,0 +1,49 @@
+Como trabalhar com PDF
+
+PDF é uma extensão de arquivo em um formato proprietário pertencente à empresa norte-americana Adobe.
+extensão
+é a parte final do nome do arquivo, que aparece após o ponto.
+
+Exemplo:
+
+   arquivo.PDF
+   autodidata.PDF
+   
+formato proprietário
+
+significa que o formato no qual o arquivo é gravado não pode ser utilizado livremente, dependendo para isso de autorização da empresa proprietária. Essa autorização normalmente envolve o pagamento de direitos ou "royalties".
+PDF significa "Portable Document Format": Formato de Documentos Portável. O programa que lida com arquivos .PDF chama-se Adobe Acrobat.
+Apesar de ser detentora dos direitos sobre o formato, a Adobe distribui gratuitamente um leitor chamado Acrobat Reader, um programa que permite que se visualize e imprima os arquivos PDF.
+
+
+
+
+O grande trunfo do formato PDF é a consistência obtida em todos os tipos de computadores, ou seja, o documento aparecerá de maneira idêntica, qualquer que seja a plataforma onde ele estiver sendo lido ou impresso. Graças a essa capacidade, o formato PDF tornou-se praticamente um padrão mundial de distribuição de documentos.
+Há várias formas de se produzir um documento PDF. O mais comum é a aquisição do programa Acrobat. Apesar de ser caro, ele dá mais flexibilidade, autonomia e qualidade na produção. Outra opção é a utilização de editores de texto: as versões mais novas do WordPerfect, Word e Word Pro são capazes de salvar arquivos nesse formato. Há ainda uma terceira opção, menos flexível, mas adequada a pequenas produções: é a geração de arquivos PDF online no site da Adobe.
+
+
+
+
+Como todos os demais programas comerciais, o leitor e o serviço online acima descritos são sujeitos a licenças de uso, as quais devem ser cuidadosamente lidas pelo usuário antes de serem aceitas.
+
+Dicas para leitura de arquivos PDF
+
+Apesar das constantes melhorias tecnológicas, a leitura de textos no computador ainda é um pouco cansativo. A isso se alia a falta de sensibilidade de quem produz os arquivos PDF. É comum encontrar-se textos de duas colunas e de letras miúdas, que forçam o leitor a fazer várias rolagens de tela para ler uma única página. Mas algumas dicas podem ajudá-lo a ler com um pouco mais de conforto, ganhando tempo e economizando um pouco de papel:
+Ao se clicar sobre um arquivo PDF, o Acrobat Reader é incorporado ao navegador, diminuindo o espaço útil para o texto. Por isso, sempre salve o arquivo em disco. Para lê-lo, dê um duplo clique no nome do arquivo a partir do Windows Explorer.
+
+clique com o botão direito sobre o link que leva ao arquivo;
+
+escolha Salvar Destino como... (o nome desta opção pode mudar de acordo com o navegador utilizado).
+
+escolha uma pasta onde o arquivo deverá ficar e salve-o;
+
+abra o Windows Explorer;
+
+localize a pasta onde o arquivo foi salvo;
+
+dê um duplo clique no arquivo.
+
+Obs.: caso o arquivo já esteja aberto no navegador é possível salvá- lo simplesmente clicando-se no pequeno disquete que aparece no alto à esquerda do texto.
+o tamanho das letras do texto varia conforme a resolução da tela utilizada pelo usuário. O Acrobat Reader oferece três formatos-padrão: para encontrar a visualização mais confortável, experimente os três clicando nos ícones. Para maiores detalhes é possível também efetuar aproximações ("zoom").
+se o texto for muito longo, imprima-o e leia em papel. Use o arquivo apenas para buscas por palavras e consultas futuras.
+
